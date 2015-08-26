@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="163px" height="163px" viewBox="0 0 163 163" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Angular</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup" transform="translate(-266.000000, -10.000000)">
+            <g id="Angular" sketch:type="MSLayerGroup" transform="translate(266.000000, 10.000000)">
+                <g id="Group" sketch:type="MSShapeGroup">
+                    <path d="M0.127730994,163 L162.809992,163 L162.809992,0 L0.127730994,0 L0.127730994,163" id="Shape" fill="#E15855"></path>
+                    <path d="M120.550733,53.484375 L56.3674971,77.9980469 L48.1062885,105.058594 L111.018569,163 L162.809992,163 L162.809992,98.6914062 L120.550733,53.484375" id="Shape" opacity="0.191" fill="#010101"></path>
+                    <path d="M81.025616,39.7949219 L41.7515127,53.6432363 L47.9575867,105.198672 L81.066922,123.43175 L114.346565,104.951625 L120.550733,53.3980996 L81.025616,39.7949219" id="Shape" fill="#FFFFFF"></path>
+                    <path d="M116.633331,56.3779434 L80.9337895,44.1796855 L80.9337895,119.07532 L110.851439,102.485613 L116.633331,56.3779434" id="Shape" fill="#CA403A"></path>
+                    <path d="M46.1585497,56.597293 L51.4765439,102.7056 L80.933154,119.07532 L80.933154,44.1784121 L46.1585497,56.597293" id="Shape" fill="#E15855"></path>
+                    <path d="M89.8104581,81.732084 L80.9986082,64.2535176 L73.7706862,81.4315527 L80.933154,81.4315527 L89.8104581,81.732084 L89.8104581,81.732084 Z M90.7604971,84.050377 L80.9337895,88.6548086 L70.5761404,88.6548086 L65.7074288,100.85625 L56.6512378,101.024344 L80.9337895,46.8994297 L90.7604971,84.050377 L90.7604971,84.050377 Z" id="Shape" fill="#FFFFFF"></path>
+                    <path d="M80.933154,46.8994297 L80.9982904,64.2535176 L89.1997641,81.4449238 L80.9515828,81.4449238 L80.933154,88.6439844 L92.3380702,88.6548086 L97.6690916,101.025936 L106.333511,101.187025 L80.933154,46.8994297" id="Shape" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

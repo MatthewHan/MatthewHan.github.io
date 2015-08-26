@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="163px" height="163px" viewBox="0 0 163 163" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Terminal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup" transform="translate(-869.000000, -10.000000)">
+            <g id="Terminal" sketch:type="MSLayerGroup" transform="translate(869.000000, 10.000000)">
+                <g id="Group" sketch:type="MSShapeGroup">
+                    <path d="M0,163 L163,163 L163,0 L0,0 L0,163" id="Shape" fill="#2C2C2C"></path>
+                    <path d="M28.7142857,101.833333 L56.4285714,74.1666667 L28.7142857,46.5 L42.5714286,32.6666667 L84.1428571,74.1666667 L42.5714286,115.666667 L28.7142857,101.833333 L28.7142857,101.833333 Z M139.571429,115.666667 L84.1428571,115.666667 L84.1428571,101.833333 L139.571429,101.833333 L139.571429,115.666667 L139.571429,115.666667 Z" id="Shape" fill="#F8F8F8"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
